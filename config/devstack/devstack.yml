@@ -82,3 +82,5 @@ ECOMMERCE_WORKER_VERSION: "%%EDX_VERSION%%"
 
 # Fix for TASK: [programs | create nodeenv] failed: "/edx/app/programs/venvs/programs/bin/nodeenv" not found
 PROGRAMS_VERSION: "%%EDX_VERSION%%"
+
+EDXAPP_CSRF_COOKIE_SECURE: false
